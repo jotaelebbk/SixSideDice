@@ -1,11 +1,5 @@
-# Dice Simulator
-Using the random library to randomize a number between 1 and 6.
-
-### Prerequisites
-Only import random
-
-### How to run the script
-Open the script directory in terminal and use "pythonX index.py"
+###Dado de seis lados
+#Fiz esse dado quando achei um banco imobiliario em casa mas estavam sem dados (sorteavamos 2 vezes para cada jogador)
 
 ### Screenshot/GIF showing the sample use of the script
 ![screenshot](images/screenshot1.jpg)
